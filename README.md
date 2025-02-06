@@ -6,9 +6,13 @@
 ## Repository
 
 [hw](hw/) : Hardware sources
+
 [sim](sim/) : LTSpice simulation
+
 [doc](doc/) : Useful documentation
+
 [results](results/) : Measurements
+
 
 ## Results
 TODO
