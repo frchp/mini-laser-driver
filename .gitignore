@@ -1,0 +1,7 @@
+# KiCad backups
+hw/mini-laser-driver/*backups
+
+# LTSpice simulation temp
+sim/*.log
+sim/*.net
+sim/*.raw
