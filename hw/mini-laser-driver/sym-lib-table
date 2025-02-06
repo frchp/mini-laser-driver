@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "mini-laser-driver-lib")(type "KiCad")(uri "${KIPRJMOD}/mini-laser-driver-lib.kicad_sym")(options "")(descr ""))
+)
