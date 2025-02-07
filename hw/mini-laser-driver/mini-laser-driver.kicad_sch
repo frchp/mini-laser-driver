@@ -4426,16 +4426,6 @@
 		)
 		(uuid "e25605df-1455-42d4-8475-6c1bf21eda1e")
 	)
-	(text "TODO : add modulation input with MOSFET here, that pulls to ground"
-		(exclude_from_sim no)
-		(at 73.152 91.948 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "f3d7e36b-3ff2-49d3-9cfb-be3ccd4612cb")
-	)
 	(global_label "V_transimpedance"
 		(shape output)
 		(at 194.31 104.14 0)
